@@ -1,10 +1,9 @@
-Hi, I’m @eweisser! Born and raised in the US, living in South Korea for the time being.
-I’m currently learning Java, and I'm just starting some lessons on React. I'm no expert, but I have quite a bit of experience with CSS, and a fair amount with Python.
-Way back, I used to enjoy writing stuff in BASIC for my TI-83, but it's been a while.
+Hi, I’m @eweisser! After several years in South Korea, I'm back in the USA.
+I’m currently learning Java, and how to use Django. Way back, I used to enjoy writing stuff in BASIC for my TI-83, but it's been a while. Remind me to tell you about it!
 
 Besides coding, I’m interested in linguistics, languages, cooking, history, onomastics...and the list goes on.
 
-I'd love to collaborate on...well, at the moment, I'd be up for any suggestions as long as I wouldn't be dead weight! Bonus points for the subjects I've mentioned above, naturally.
+I'd love to collaborate on...well, nearly anything! Bonus points for the subjects I've mentioned above, naturally.
 
 <!---
 eweisser/eweisser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
